@@ -61,8 +61,8 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 ## Construido con
 
-Entorno de desarrollo: Eclipse
-Lenguaje: Java
+* Entorno de desarrollo: Eclipse
+* Lenguaje: Java
 
 ## Versionado
 
