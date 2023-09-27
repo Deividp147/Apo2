@@ -1,8 +1,8 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-# Titulo del Proyecto
+# Funciones y contenedoras en java
 
-Un párrafo de la descripción del proyecto va aquí.
+Uso de funciones y contenedoras en java
 
 ## Empezando
 
@@ -61,17 +61,17 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 ## Construido con
 
-Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+Entorno de desarrollo: Eclipse
+Lenguaje: Java
 
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+Version 1.0
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* **Anthony  Viveros**
+* **David Pasaje** 
 
 
 ## Licencia
